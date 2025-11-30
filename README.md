@@ -206,3 +206,9 @@ Plots and results will be saved inside the `images/` directory.
   - redundant or uninformative variables  
   - mixed data types  
 - Boosting algorithms were chosen for their **high predictive power** and **low bias characteristics**.
+
+---
+
+### License
+
+This project is licensed under the terms of the MIT license. You can find the full license in the `LICENSE` file.
